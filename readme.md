@@ -6,4 +6,4 @@
 -- |
 [如何使用](./docs/usage.md) |
 [登陆教程](./docs/login.md) |
-[常见问题](./docs/questions.md) |
+[常见问题](./docs/faq.md) |
