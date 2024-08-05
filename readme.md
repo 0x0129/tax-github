@@ -2,6 +2,8 @@
 
 一个为国人免费提供的 Github 加速项目
 
-## 使用教程
-
-[登陆教程](./docs/login.md)
+帮助菜单 |
+-- |
+[如何使用](./docs/usage.md) |
+[登陆教程](./docs/login.md) |
+[常见问题](./docs/questions.md) |
