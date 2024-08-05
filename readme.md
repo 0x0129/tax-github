@@ -1,6 +1,6 @@
 **Tax Github**
 
-一个为国人免费提供的 Github 加速项目
+一个为国人免费加速 Github 的项目
 
 您可以将 `github.com` 域名的 `.com` 更改成 `.tax` 即可进行加速
 
