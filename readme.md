@@ -13,3 +13,7 @@
 🤔 [常见问题](./docs/faq.md) |
 🤗 [加入我们](./docs/join.md) |
 😭 [赞助我们](./docs/sponsor.md) |
+
+🤩 赞助名单 |
+-- |
+😭 无 |
