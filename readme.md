@@ -18,4 +18,4 @@
 
 🤩 赞助名单 |
 -- |
-[8Mi-Tech](https://github.com/8Mi-Tech) |
+[8Mi-Tech](https://github.tax/8Mi-Tech) |
