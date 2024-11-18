@@ -1,4 +1,4 @@
-**Tax Github**
+**Speed Github**
 
 一个为国人免费加速 Github 的项目
 
